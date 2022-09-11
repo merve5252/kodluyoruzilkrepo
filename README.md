@@ -6,7 +6,8 @@ Bu repo *kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisind
 
 
 
-![]("C:\Users\memis\Documents\Lightshot\örnek.png")
+![](https://github.com/merve5252/kodluyoruzilkrepo/blob/main/%C3%B6rnek.png)
+
 
 
 
