@@ -6,8 +6,7 @@ Bu repo *kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisind
 
 
 
-![](https://github.com/merve5252/kodluyoruzilkrepo/blob/main/%C3%B6rnek.png)
-
+![](%C3%B6rnek.png)
 
 
 
